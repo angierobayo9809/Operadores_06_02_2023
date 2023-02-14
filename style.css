@@ -1,0 +1,46 @@
+
+body{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+table {
+    border-spacing: 0;
+    border:3px skyblue solid;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    margin-left: -20px;
+}
+
+h2{
+    text-align: center;
+    margin-left: -10px;
+    font-family: cursive;
+}
+
+thead{
+ background-color:lightseagreen;
+ font-weight: bolder;   
+ color: blue;
+ font-size: 24px;
+}
+
+tbody{   
+    font-size: 20px;
+   }
+
+td{
+    border: 1px skyblue solid;
+    padding: 5px;
+}
+
+#trDynamic{
+    background-color:bisque;
+    font-weight: bolder;   
+    color:brown;   
+}
