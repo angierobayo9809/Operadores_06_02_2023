@@ -7,12 +7,12 @@ body{
 
 table {
     border-spacing: 0;
-    border:3px skyblue solid;
+    border:3px salmon solid;
     text-align: center;
 }
 
 h1{
-    color: blue;
+    color: green;
     text-align: center;
     margin-left: -20px;
 }
@@ -24,9 +24,9 @@ h2{
 }
 
 thead{
- background-color:lightseagreen;
+ background-color:rgb(222, 107, 187);
  font-weight: bolder;   
- color: blue;
+ color: rgb(21, 231, 63);
  font-size: 24px;
 }
 
@@ -35,12 +35,12 @@ tbody{
    }
 
 td{
-    border: 1px skyblue solid;
+    border: 1px rgb(228, 72, 205) solid;
     padding: 5px;
 }
 
 #trDynamic{
-    background-color:bisque;
+    background-color:rgb(70, 25, 234);
     font-weight: bolder;   
-    color:brown;   
+    color:yellow;   
 }

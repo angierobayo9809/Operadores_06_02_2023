@@ -5,6 +5,6 @@ let myTableBody = document.querySelector("#tableBody");
 myTableBody.insertAdjacentHTML("beforeend", `<tr id="trDynamic">
                                 <td>${a}</td>
                                 <td>${b}</td>
-                                <td>${a && b}</td>
+                                <td>${a || b}</td>
                                 </tr>
                                 `);
